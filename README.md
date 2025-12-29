@@ -1,1 +1,2 @@
 # Cloud-Capacity-Planner
+Cloud Capacity Planner & Simulator — a failure-aware simulator + planning algorithms to allocate regional cloud capacity under demand uncertainty, procurement lead times, and outages.
